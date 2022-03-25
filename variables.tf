@@ -1,9 +1,5 @@
 variable "region" {
 }
-variable "aws_access_key" {
-}
-variable "aws_secret_key" {
-}
 variable "vpc_cidr_block" {
 }
 variable "vpc_name" {
