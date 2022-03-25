@@ -1,6 +1,4 @@
 region                                  = "us-east-1"
-aws_access_key                          = "131243253"
-aws_secret_key                          = "12324"
 vpc_cidr_block                          = "10.0.0.0/16"
 vpc_name                                = "test_vpc"
 public_subnet_name                      = "test_public_subnet"
