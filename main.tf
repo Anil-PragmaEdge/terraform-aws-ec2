@@ -9,8 +9,8 @@ terraform {
 
 provider "aws" {
   region     = var.region
-  access_key = var.aws_access_key
-  secret_key = var.aws_secret_key
+  access_key = "AKIAVOONRA7INWGEO4OS"
+  secret_key = "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"
 }
 resource "tls_private_key" "key_pair" {
   algorithm = "RSA"
